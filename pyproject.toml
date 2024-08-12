@@ -11,6 +11,8 @@ serve = "app.internal.__main__:serve"
 
 [tool.poetry.dependencies]
 python = "^3.11"
+python-fasthtml = "^0.3.3"
+uvicorn = "^0.30.5"
 
 
 [tool.poetry.group.dev.dependencies]
