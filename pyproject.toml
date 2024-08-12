@@ -13,6 +13,7 @@ serve = "app.internal.__main__:serve"
 python = "^3.11"
 python-fasthtml = "^0.3.3"
 uvicorn = "^0.30.5"
+requests = "^2.32.3"
 
 
 [tool.poetry.group.dev.dependencies]
